@@ -1,0 +1,84 @@
+Iterations = 10000
+Board Size = 2
+Average moves = 1.9925
+
+Board Size = 3
+Average moves = 2.2451
+
+Board Size = 4
+Average moves = 2.445333333333333
+
+Board Size = 5
+Average moves = 2.59875
+
+Board Size = 6
+Average moves = 2.73574
+
+Board Size = 7
+Average moves = 2.8550333333333335
+
+Board Size = 8
+Average moves = 2.9599
+
+Board Size = 9
+Average moves = 3.0553375
+
+Board Size = 10
+Average moves = 3.1402888888888887
+
+Iterations = 100000
+Board Size = 2
+Average moves = 1.98836
+
+Board Size = 3
+Average moves = 2.24297
+
+Board Size = 4
+Average moves = 2.4377066666666667
+
+Board Size = 5
+Average moves = 2.59898
+
+Board Size = 6
+Average moves = 2.735796
+
+Board Size = 7
+Average moves = 2.8551783333333334
+
+Board Size = 8
+Average moves = 2.9595714285714285
+
+Board Size = 9
+Average moves = 3.05395375
+
+Board Size = 10
+Average moves = 3.1393377777777776
+
+Iterations = 500000
+Board Size = 2
+Average moves = 2.001262
+
+Board Size = 3
+Average moves = 2.25091
+
+Board Size = 4
+Average moves = 2.4453126666666667
+
+Board Size = 5
+Average moves = 2.60448
+
+Board Size = 6
+Average moves = 2.7416796
+
+Board Size = 7
+Average moves = 2.8599696666666667
+
+Board Size = 8
+Average moves = 2.964145142857143
+
+Board Size = 9
+Average moves = 3.058893
+
+Board Size = 10
+Average moves = 3.1444293333333335
+
